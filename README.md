@@ -19,6 +19,10 @@ This project automates the full workflow using:
 
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/CB-AI-Toolkit-for-Professional/10.-P8-AI-Powered-Variance-Report-Automation-using-n8n-Gemini/main/Thumbnail.png)](https://www.youtube.com/watch?v=y6LRK9wCA8Y)
+
+---
+
 ## 🎯 What This Automation Does
 
 - Extracts CSV file from incoming email  
